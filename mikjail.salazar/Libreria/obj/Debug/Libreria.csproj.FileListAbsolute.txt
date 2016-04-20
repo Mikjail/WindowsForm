@@ -1,0 +1,5 @@
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Ejercicios(temporal)\mikjail.salazar\Libreria\bin\Debug\Libreria.dll
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Ejercicios(temporal)\mikjail.salazar\Libreria\bin\Debug\Libreria.pdb
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Ejercicios(temporal)\mikjail.salazar\Libreria\obj\Debug\Libreria.csprojResolveAssemblyReference.cache
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Ejercicios(temporal)\mikjail.salazar\Libreria\obj\Debug\Libreria.dll
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Ejercicios(temporal)\mikjail.salazar\Libreria\obj\Debug\Libreria.pdb

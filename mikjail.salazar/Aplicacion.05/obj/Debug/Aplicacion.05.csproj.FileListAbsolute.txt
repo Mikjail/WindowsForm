@@ -1,0 +1,17 @@
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.05\bin\Debug\Aplicacion.05.exe.config
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.05\bin\Debug\Aplicacion.05.exe
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.05\bin\Debug\Aplicacion.05.pdb
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion._05.Form1.resources
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion._05.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion.05.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion.05.exe
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion.05.pdb
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.05\bin\Debug\Aplicacion.05.exe.config
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion.05.exe
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion.05.pdb
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.05\bin\Debug\Aplicacion.05.exe
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.05\bin\Debug\Aplicacion.05.pdb
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion.05.csprojResolveAssemblyReference.cache
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion._05.Form1.resources
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion._05.Properties.Resources.resources
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.05\obj\Debug\Aplicacion.05.csproj.GenerateResource.Cache

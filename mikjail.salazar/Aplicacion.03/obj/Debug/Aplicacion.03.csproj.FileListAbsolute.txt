@@ -1,0 +1,27 @@
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\Mikjail.Salazar\Aplicacion.03\bin\Debug\Aplicacion.03.exe.config
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\Mikjail.Salazar\Aplicacion.03\bin\Debug\Aplicacion.03.exe
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\Mikjail.Salazar\Aplicacion.03\bin\Debug\Aplicacion.03.pdb
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\Mikjail.Salazar\Aplicacion.03\obj\Debug\Aplicacion.03.csprojResolveAssemblyReference.cache
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\Mikjail.Salazar\Aplicacion.03\obj\Debug\Aplicacion._03.Form1.resources
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\Mikjail.Salazar\Aplicacion.03\obj\Debug\Aplicacion._03.Properties.Resources.resources
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\Mikjail.Salazar\Aplicacion.03\obj\Debug\Aplicacion.03.csproj.GenerateResource.Cache
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\Mikjail.Salazar\Aplicacion.03\obj\Debug\Aplicacion.03.exe
+C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3. Laboratorio (Windows Form)\Ejercicios\Mikjail.Salazar\Aplicacion.03\obj\Debug\Aplicacion.03.pdb
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\Aplicacion.03.exe.config
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\Aplicacion.03.exe
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\Aplicacion.03.pdb
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\mscorlib.dll
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\System.Net.Http.dll
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\System.Net.Http.xml
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\es\mscorlib.resources.dll
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\normidna.nlp
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\normnfc.nlp
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\normnfd.nlp
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\normnfkc.nlp
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\normnfkd.nlp
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.csprojResolveAssemblyReference.cache
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion._03.Form1.resources
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion._03.Properties.Resources.resources
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.csproj.GenerateResource.Cache
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.exe
+C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.pdb
