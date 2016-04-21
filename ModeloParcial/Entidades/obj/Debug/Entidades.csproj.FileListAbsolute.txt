@@ -3,3 +3,8 @@ C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\ModeloParcial\Entidad
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\ModeloParcial\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\ModeloParcial\Entidades\obj\Debug\Entidades.dll
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\ModeloParcial\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Entidades\bin\Debug\Entidades.dll
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Entidades\obj\Debug\Entidades.dll
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Entidades\obj\Debug\Entidades.pdb

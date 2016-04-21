@@ -1,0 +1,5 @@
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Controles\bin\Debug\Controles.dll
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Controles\bin\Debug\Controles.pdb
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Controles\obj\Debug\Controles.csprojResolveAssemblyReference.cache
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Controles\obj\Debug\Controles.dll
+C:\Users\lurdes\Desktop\UTN\3. Laboratorio 3\WindowsForm\ModeloParcial\Controles\obj\Debug\Controles.pdb

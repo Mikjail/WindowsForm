@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CodeFile1.cs" />
     <Compile Include="FrmAnimal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -55,6 +56,12 @@
     </Compile>
     <Compile Include="frmMascota.Designer.cs">
       <DependentUpon>frmMascota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMotrar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMotrar.Designer.cs">
+      <DependentUpon>FrmMotrar.cs</DependentUpon>
     </Compile>
     <Compile Include="FrmPrincipal.cs">
       <SubType>Form</SubType>
@@ -69,6 +76,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmMascota.resx">
       <DependentUpon>frmMascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMotrar.resx">
+      <DependentUpon>FrmMotrar.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
