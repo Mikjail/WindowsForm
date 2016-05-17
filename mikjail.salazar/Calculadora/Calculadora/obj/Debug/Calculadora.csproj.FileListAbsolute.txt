@@ -1,0 +1,9 @@
+C:\Users\hernan\Documents\TSP\3er Cuatrimestre\Laboratorio III\Hernán.Plager.3C\Ejercicios\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\hernan\Documents\TSP\3er Cuatrimestre\Laboratorio III\Hernán.Plager.3C\Ejercicios\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\hernan\Documents\TSP\3er Cuatrimestre\Laboratorio III\Hernán.Plager.3C\Ejercicios\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\hernan\Documents\TSP\3er Cuatrimestre\Laboratorio III\Hernán.Plager.3C\Ejercicios\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\hernan\Documents\TSP\3er Cuatrimestre\Laboratorio III\Hernán.Plager.3C\Ejercicios\Calculadora\Calculadora\obj\Debug\Calculadora.FrmCalculadora.resources
+C:\Users\hernan\Documents\TSP\3er Cuatrimestre\Laboratorio III\Hernán.Plager.3C\Ejercicios\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\hernan\Documents\TSP\3er Cuatrimestre\Laboratorio III\Hernán.Plager.3C\Ejercicios\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\hernan\Documents\TSP\3er Cuatrimestre\Laboratorio III\Hernán.Plager.3C\Ejercicios\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\hernan\Documents\TSP\3er Cuatrimestre\Laboratorio III\Hernán.Plager.3C\Ejercicios\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

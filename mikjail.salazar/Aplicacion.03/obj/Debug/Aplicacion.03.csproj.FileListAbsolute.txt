@@ -25,3 +25,12 @@ C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debu
 C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.csproj.GenerateResource.Cache
 C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.exe
 C:\Users\alumno.LAB4PC\Desktop\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.pdb
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\Aplicacion.03.exe.config
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\Aplicacion.03.exe
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.03\bin\Debug\Aplicacion.03.pdb
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.csprojResolveAssemblyReference.cache
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion._03.Form1.resources
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion._03.Properties.Resources.resources
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.csproj.GenerateResource.Cache
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.exe
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.03\obj\Debug\Aplicacion.03.pdb

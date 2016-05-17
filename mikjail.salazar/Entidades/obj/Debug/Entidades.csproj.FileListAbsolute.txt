@@ -1,0 +1,4 @@
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Entidades\bin\Debug\Entidades.dll
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Entidades\bin\Debug\Entidades.pdb
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Entidades\obj\Debug\Entidades.dll
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Entidades\obj\Debug\Entidades.pdb

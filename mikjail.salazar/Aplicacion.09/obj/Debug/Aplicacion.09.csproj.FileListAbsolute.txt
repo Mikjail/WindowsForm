@@ -1,2 +1,15 @@
 C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Ejercicios(temporal)\mikjail.salazar\Aplicacion.09\bin\Debug\Aplicacion.09.exe.config
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\mikjail.salazar\Aplicacion.09\bin\Debug\Aplicacion.09.exe.config
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\bin\Debug\Aplicacion.09.exe.config
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\bin\Debug\Aplicacion.09.exe
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\bin\Debug\Aplicacion.09.pdb
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\bin\Debug\Libreria.dll
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\bin\Debug\Libreria.pdb
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion.09.csprojResolveAssemblyReference.cache
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion._09.AboutBox1.resources
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion._09.Form1.resources
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion._09.FrmGestionAutomovil.resources
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion._09.Properties.Resources.resources
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion.09.csproj.GenerateResource.Cache
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion.09.exe
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion.09.pdb

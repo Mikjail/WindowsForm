@@ -1,0 +1,26 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia_Delegados_Winforms_2016_Ej2.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia Delegados Winforms 2016 Ej2.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Guia Delegados Winforms 2016 Ej2.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia_Delegados_Winforms_2016_Ej2.frmDatos.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia_Delegados_Winforms_2016_Ej2.frmPrincipal.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia_Delegados_Winforms_2016_Ej2.frmTestDelegados.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Guia Delegados Winforms 2016 Ej2.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Guia Delegados Winforms 2016 Ej2.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia Delegados Winforms 2016 Ej2.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia Delegados Winforms 2016 Ej2.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Entidades.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia Delegados Winforms 2016 Ej2.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Guia Delegados Winforms 2016 Ej2.exe.config
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Guia Delegados Winforms 2016 Ej2.exe
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Guia Delegados Winforms 2016 Ej2.pdb
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Entidades.dll
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\bin\Debug\Entidades.pdb
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia Delegados Winforms 2016 Ej2.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia_Delegados_Winforms_2016_Ej2.frmDatos.resources
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia_Delegados_Winforms_2016_Ej2.frmPrincipal.resources
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia_Delegados_Winforms_2016_Ej2.frmTestDelegados.resources
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia_Delegados_Winforms_2016_Ej2.Properties.Resources.resources
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia Delegados Winforms 2016 Ej2.csproj.GenerateResource.Cache
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia Delegados Winforms 2016 Ej2.exe
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016 Ej2\obj\Debug\Guia Delegados Winforms 2016 Ej2.pdb

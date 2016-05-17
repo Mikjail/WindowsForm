@@ -1,0 +1,28 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Guia Delegados Winforms 2016Ej3.exe.config
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.csprojResolveAssemblyReference.cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia_Delegados_Winforms_2016Ej3.Properties.Resources.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.csproj.GenerateResource.Cache
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia_Delegados_Winforms_2016Ej3.frmPrincipal.resources
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Guia Delegados Winforms 2016Ej3.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Guia Delegados Winforms 2016Ej3.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Entidades.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.exe
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia_Delegados_Winforms_2016Ej3.frmAltaAlumno.resources
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Guia Delegados Winforms 2016Ej3.exe.config
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.exe
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.pdb
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Guia Delegados Winforms 2016Ej3.exe
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Guia Delegados Winforms 2016Ej3.pdb
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Entidades.dll
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Entidades.pdb
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia_Delegados_Winforms_2016Ej3.frmAltaAlumno.resources
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia_Delegados_Winforms_2016Ej3.frmDatosAlumno.resources
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia_Delegados_Winforms_2016Ej3.frmPrincipal.resources
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia_Delegados_Winforms_2016Ej3.Properties.Resources.resources
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.csproj.GenerateResource.Cache
+C:\Users\550714\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Guias\Clase 4\Clase 4 2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\bin\Debug\Guia Delegados Winforms 2016Ej3.exe.config
+C:\Users\550714\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Guias\Clase 4\Clase 4 2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.exe
+C:\Users\550714\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Guias\Clase 4\Clase 4 2016\Guia Delegados Winforms 2016\Guia Delegados Winforms 2016Ej3\obj\Debug\Guia Delegados Winforms 2016Ej3.pdb

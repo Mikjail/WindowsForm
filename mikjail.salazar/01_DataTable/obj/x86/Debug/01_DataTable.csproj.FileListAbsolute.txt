@@ -1,0 +1,50 @@
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\_01_DataTable.frmMostrar.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\_01_DataTable.frmPrincipal.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\_01_DataTable.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\01_DataTable.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\bin\Debug\01_DataTable.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\bin\Debug\01_DataTable.pdb
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\01_DataTable.exe
+c:\users\administrador\documents\visual studio 2010\Projects\2015.LABIII.Clase08\01_DataTable\obj\x86\Debug\01_DataTable.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.exe
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.pdb
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmMostrar.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmPrincipal.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.Properties.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmABM.resources
+C:\Users\Administrador\Documents\Visual Studio 2010\Projects\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.exe
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.pdb
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.exe
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.pdb
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmABM.resources
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmMostrar.resources
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmPrincipal.resources
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.Properties.Resources.resources
+C:\Users\chris_000\Desktop\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csproj.GenerateResource.Cache
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.exe
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.pdb
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.exe
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.pdb
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csprojResolveAssemblyReference.cache
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmABM.resources
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmMostrar.resources
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmPrincipal.resources
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.Properties.Resources.resources
+E:\UTN 2016\Laboratorio III C#\Clase 9\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csproj.GenerateResource.Cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.exe
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\bin\Debug\01_DataTable.pdb
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmABM.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmMostrar.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.frmPrincipal.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\_01_DataTable.Properties.Resources.resources
+C:\Users\profesor.LAB04PROFESOR\Desktop\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.csproj.GenerateResource.Cache
+F:\1.Lab3\Clase 8 SQL 2016\Clase09 LabIII\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.exe
+F:\1.Lab3\Clase 8 SQL 2016\Clase09 LabIII\2015.LABIII.Clase09\01_DataTable\obj\x86\Debug\01_DataTable.pdb

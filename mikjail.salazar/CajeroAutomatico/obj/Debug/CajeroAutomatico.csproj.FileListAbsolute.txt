@@ -7,3 +7,12 @@ C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Win
 C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Ejercicios(actual)\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.Cache
 C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Ejercicios(actual)\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
 C:\Users\lurdes\Desktop\Mikjail\Dropbox\UTN\3er Cuatrimestre\3. Laboratorio (Windows Form)\Ejercicios(actual)\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\bin\Debug\CajeroAutomatico.pdb
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.csprojResolveAssemblyReference.cache
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.Form1.resources
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.Properties.Resources.resources
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.Cache
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
