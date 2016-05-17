@@ -110,6 +110,7 @@
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
+            this.FormClosing += FrmPrincipal_FormClosing;
 
         }
 
