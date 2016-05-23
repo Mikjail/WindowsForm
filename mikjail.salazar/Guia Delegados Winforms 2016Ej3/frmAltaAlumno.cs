@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Entidades;
+using EntidadesDel;
 
 namespace Guia_Delegados_Winforms_2016Ej3
 {

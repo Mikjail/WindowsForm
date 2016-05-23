@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicacion.01", "Aplicacion.01\Aplicacion.01.csproj", "{896C5EA3-7573-40D6-8F25-D42D504190A7}"
 EndProject
@@ -40,6 +40,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_DataTable", "01_DataTable\01_DataTable.csproj", "{EEC064E4-4852-4AA8-A704-BB262A3C468F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_DataSet", "02_DataSet\02_DataSet.csproj", "{60E898B8-8BD6-49E0-AE28-520D70004AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesDel", "EntidadesDel\EntidadesDel.csproj", "{84B80CD0-0708-427A-9A1E-0E070DA161A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -241,6 +243,18 @@ Global
 		{60E898B8-8BD6-49E0-AE28-520D70004AAD}.Release|Mixed Platforms.Build.0 = Release|x86
 		{60E898B8-8BD6-49E0-AE28-520D70004AAD}.Release|x86.ActiveCfg = Release|x86
 		{60E898B8-8BD6-49E0-AE28-520D70004AAD}.Release|x86.Build.0 = Release|x86
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Debug|x86.Build.0 = Debug|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Release|x86.ActiveCfg = Release|Any CPU
+		{84B80CD0-0708-427A-9A1E-0E070DA161A2}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

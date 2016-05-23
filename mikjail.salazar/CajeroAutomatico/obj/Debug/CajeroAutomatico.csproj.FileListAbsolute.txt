@@ -16,3 +16,6 @@ C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.sa
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.csproj.GenerateResource.Cache
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\CajeroAutomatico\bin\Debug\CajeroAutomatico.exe.config
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.exe
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\CajeroAutomatico\obj\Debug\CajeroAutomatico.pdb

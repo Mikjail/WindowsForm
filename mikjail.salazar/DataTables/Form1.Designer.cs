@@ -35,13 +35,13 @@
             this.btnCrearRel = new System.Windows.Forms.Button();
             this.btnCrearDsDt = new System.Windows.Forms.Button();
             this.groupMostrar = new System.Windows.Forms.GroupBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.listBox1 = new System.Windows.Forms.ListBox();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnMostrarXFiltro = new System.Windows.Forms.Button();
             this.btnMostrarProdProvLoc = new System.Windows.Forms.Button();
             this.btnMostrarProvQuil = new System.Windows.Forms.Button();
             this.btnMostrarProvLoc = new System.Windows.Forms.Button();
             this.btnMostrarProdProv = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
             this.GroupInic.SuspendLayout();
             this.groupMostrar.SuspendLayout();
             this.SuspendLayout();
@@ -109,7 +109,7 @@
             // 
             this.groupMostrar.Controls.Add(this.textBox1);
             this.groupMostrar.Controls.Add(this.listBox1);
-            this.groupMostrar.Controls.Add(this.button1);
+            this.groupMostrar.Controls.Add(this.btnMostrarXFiltro);
             this.groupMostrar.Controls.Add(this.btnMostrarProdProvLoc);
             this.groupMostrar.Controls.Add(this.btnMostrarProvQuil);
             this.groupMostrar.Controls.Add(this.btnMostrarProvLoc);
@@ -121,6 +121,14 @@
             this.groupMostrar.TabStop = false;
             this.groupMostrar.Text = "Mostrar";
             // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(179, 247);
+            this.textBox1.Multiline = true;
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(167, 38);
+            this.textBox1.TabIndex = 2;
+            // 
             // listBox1
             // 
             this.listBox1.FormattingEnabled = true;
@@ -129,14 +137,14 @@
             this.listBox1.Size = new System.Drawing.Size(340, 121);
             this.listBox1.TabIndex = 1;
             // 
-            // button1
+            // btnMostrarXFiltro
             // 
-            this.button1.Location = new System.Drawing.Point(6, 247);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(167, 38);
-            this.button1.TabIndex = 0;
-            this.button1.Text = "5-Mostrar proveedores de la localidad ingresada en el txtFiltro";
-            this.button1.UseVisualStyleBackColor = true;
+            this.btnMostrarXFiltro.Location = new System.Drawing.Point(6, 247);
+            this.btnMostrarXFiltro.Name = "btnMostrarXFiltro";
+            this.btnMostrarXFiltro.Size = new System.Drawing.Size(167, 38);
+            this.btnMostrarXFiltro.TabIndex = 0;
+            this.btnMostrarXFiltro.Text = "5-Mostrar proveedores de la localidad ingresada en el txtFiltro";
+            this.btnMostrarXFiltro.UseVisualStyleBackColor = true;
             // 
             // btnMostrarProdProvLoc
             // 
@@ -174,14 +182,6 @@
             this.btnMostrarProdProv.Text = "1- Mostrar Productos Con Su Proveedor";
             this.btnMostrarProdProv.UseVisualStyleBackColor = true;
             // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(179, 247);
-            this.textBox1.Multiline = true;
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(167, 38);
-            this.textBox1.TabIndex = 2;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -208,7 +208,7 @@
         private System.Windows.Forms.Button btnCrearDsDt;
         private System.Windows.Forms.GroupBox groupMostrar;
         private System.Windows.Forms.ListBox listBox1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnMostrarXFiltro;
         private System.Windows.Forms.Button btnMostrarProdProvLoc;
         private System.Windows.Forms.Button btnMostrarProvQuil;
         private System.Windows.Forms.Button btnMostrarProvLoc;

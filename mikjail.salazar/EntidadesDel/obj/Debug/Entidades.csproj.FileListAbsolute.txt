@@ -1,0 +1,10 @@
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Entidades\bin\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Entidades\bin\Debug\Entidades.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Entidades\obj\Debug\Entidades.dll
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Entidades\obj\Debug\Entidades.pdb
+D:\Users\chris_000\Documents\Visual Studio 2012\Projects\Proyectos2016\Guia Delegados Winforms 2016\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Entidades\bin\Debug\Entidades.dll
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Entidades\obj\Debug\Entidades.dll
+C:\Users\Christian\Desktop\Guia Delegados Winforms 2016\Entidades\obj\Debug\Entidades.pdb

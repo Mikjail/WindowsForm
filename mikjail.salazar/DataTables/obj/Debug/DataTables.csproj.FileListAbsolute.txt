@@ -1,0 +1,9 @@
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\bin\Debug\DataTables.exe.config
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\bin\Debug\DataTables.exe
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\bin\Debug\DataTables.pdb
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\Debug\DataTables.csprojResolveAssemblyReference.cache
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\Debug\DataTables.Form1.resources
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\Debug\DataTables.Properties.Resources.resources
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\Debug\DataTables.csproj.GenerateResource.Cache
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\Debug\DataTables.exe
+C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\Debug\DataTables.pdb

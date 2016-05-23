@@ -1,5 +1,5 @@
 ﻿using System;
-using Entidades;
+using EntidadesDel;
 
 
 namespace Guia_Delegados_Winforms_2016Ej3
