@@ -1,0 +1,11 @@
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\bin\Debug\usoSQLAdapter.exe.config
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\obj\Debug\usoSQLAdapter.csprojResolveAssemblyReference.cache
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\obj\Debug\usoSQLAdapter.frmEstados.resources
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\obj\Debug\usoSQLAdapter.Form1.resources
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\obj\Debug\usoSQLAdapter.frmDatos.resources
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\obj\Debug\usoSQLAdapter.Properties.Resources.resources
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\obj\Debug\usoSQLAdapter.csproj.GenerateResource.Cache
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\bin\Debug\usoSQLAdapter.exe
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\bin\Debug\usoSQLAdapter.pdb
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\obj\Debug\usoSQLAdapter.exe
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\usoSQLAdapter\obj\Debug\usoSQLAdapter.pdb

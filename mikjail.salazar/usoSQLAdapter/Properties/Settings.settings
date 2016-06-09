@@ -5,10 +5,17 @@
     <Setting Name="UTN_Negocio" Type="(Connection string)" Scope="Application">
       <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;SerializableConnectionString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+<<<<<<< HEAD
+  &lt;ConnectionString&gt;Data Source=.\SQLEXPRESS;AttachDbFilename=E:\1.Lab3\WindowsForm-master\UTN_Negocio.mdf;Integrated Security=True&lt;/ConnectionString&gt;
+  &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=.\SQLEXPRESS;AttachDbFilename=E:\1.Lab3\WindowsForm-master\UTN_Negocio.mdf;Integrated Security=True</Value>
+=======
   &lt;ConnectionString&gt;Data Source=.;Initial Catalog=UTN_Negocio;Integrated Security=True&lt;/ConnectionString&gt;
   &lt;ProviderName&gt;System.Data.SqlClient&lt;/ProviderName&gt;
 &lt;/SerializableConnectionString&gt;</DesignTimeValue>
       <Value Profile="(Default)">Data Source=.;Initial Catalog=UTN_Negocio;Integrated Security=True</Value>
+>>>>>>> 749490da78b5864c04225b7130f4d0fd6de3e44e
     </Setting>
   </Settings>
 </SettingsFile>

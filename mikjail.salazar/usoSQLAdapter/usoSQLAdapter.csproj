@@ -11,6 +11,10 @@
     <AssemblyName>usoSQLAdapter</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+<<<<<<< HEAD
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+=======
+>>>>>>> 749490da78b5864c04225b7130f4d0fd6de3e44e
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
@@ -23,7 +27,10 @@
     <MapFileExtensions>true</MapFileExtensions>
     <ApplicationRevision>0</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+<<<<<<< HEAD
+=======
     <IsWebBootstrapper>false</IsWebBootstrapper>
+>>>>>>> 749490da78b5864c04225b7130f4d0fd6de3e44e
     <UseApplicationTrust>false</UseApplicationTrust>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -59,26 +66,55 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
+    <Compile Include="Delegados.cs" />
+    <Compile Include="frmEstados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstados.Designer.cs">
+      <DependentUpon>frmEstados.cs</DependentUpon>
+    </Compile>
+=======
+>>>>>>> 749490da78b5864c04225b7130f4d0fd6de3e44e
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+    <Compile Include="frmDatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDatos.Designer.cs">
+      <DependentUpon>frmDatos.cs</DependentUpon>
+=======
     <Compile Include="frmModificar.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="frmModificar.Designer.cs">
       <DependentUpon>frmModificar.cs</DependentUpon>
+>>>>>>> 749490da78b5864c04225b7130f4d0fd6de3e44e
     </Compile>
     <Compile Include="Generador.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
+    <EmbeddedResource Include="frmEstados.resx">
+      <DependentUpon>frmEstados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDatos.resx">
+      <DependentUpon>frmDatos.cs</DependentUpon>
+=======
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmModificar.resx">
       <DependentUpon>frmModificar.cs</DependentUpon>
+>>>>>>> 749490da78b5864c04225b7130f4d0fd6de3e44e
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

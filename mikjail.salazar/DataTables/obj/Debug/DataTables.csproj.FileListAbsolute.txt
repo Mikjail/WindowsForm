@@ -7,3 +7,9 @@ C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\D
 C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\Debug\DataTables.csproj.GenerateResource.Cache
 C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\Debug\DataTables.exe
 C:\Users\lurdes\Desktop\actualizado\WindowsForm\mikjail.salazar\DataTables\obj\Debug\DataTables.pdb
+<<<<<<< HEAD
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\DataTables\bin\Debug\DataTables.exe.config
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\DataTables\obj\Debug\DataTables.exe
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\DataTables\obj\Debug\DataTables.pdb
+=======
+>>>>>>> 749490da78b5864c04225b7130f4d0fd6de3e44e

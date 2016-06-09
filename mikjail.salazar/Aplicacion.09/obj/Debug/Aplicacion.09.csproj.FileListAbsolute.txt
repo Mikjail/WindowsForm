@@ -13,3 +13,9 @@ C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.sa
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion.09.csproj.GenerateResource.Cache
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion.09.exe
 C:\Users\550714\Source\UTN\1. Programacion 3(Windows Form)\Ejercicios\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion.09.pdb
+<<<<<<< HEAD
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\Aplicacion.09\bin\Debug\Aplicacion.09.exe.config
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion.09.exe
+E:\1.Lab3\WindowsForm-master\mikjail.salazar\Aplicacion.09\obj\Debug\Aplicacion.09.pdb
+=======
+>>>>>>> 749490da78b5864c04225b7130f4d0fd6de3e44e
