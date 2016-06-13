@@ -1,0 +1,28 @@
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe.config
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.pdb
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.dll
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.pdb
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csprojResolveAssemblyReference.cache
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.FrmAlumno.resources
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.FrmPrincipal.resources
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.Properties.Resources.resources
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csproj.GenerateResource.Cache
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.exe
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.pdb
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe.config
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.exe
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.pdb
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.pdb
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.dll
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Entidades.pdb
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.FrmAlumno.resources
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.FrmPrincipal.resources
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.Properties.Resources.resources
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.csproj.GenerateResource.Cache
+C:\Users\Juan\Documents\Laboratorio III\Clase 13\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.FrmMostrar.resources
+E:\1.Lab3\Giusti.Juan\Modelo.SegundoParcial.LabIII\bin\Debug\Modelo.SegundoParcial.LabIII.exe.config
+E:\1.Lab3\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.exe
+E:\1.Lab3\Giusti.Juan\Modelo.SegundoParcial.LabIII\obj\Debug\Modelo.SegundoParcial.LabIII.pdb

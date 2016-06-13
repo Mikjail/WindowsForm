@@ -1,0 +1,5 @@
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Entidades\bin\Debug\Entidades.dll
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Entidades\bin\Debug\Entidades.pdb
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Entidades\obj\Debug\Entidades.dll
+c:\users\alumno.lab4pc\documents\visual studio 2012\Projects\Giusti.Juan\Entidades\obj\Debug\Entidades.pdb

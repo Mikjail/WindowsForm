@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <dbo.cursos>
+    <Codigo>1000</Codigo>
+    <Duracion>5</Duracion>
+    <Nombre>Java</Nombre>
+  </dbo.cursos>
+  <dbo.cursos>
+    <Codigo>1005</Codigo>
+    <Duracion>10</Duracion>
+    <Nombre>ASP.NET</Nombre>
+  </dbo.cursos>
+  <dbo.cursos>
+    <Codigo>1010</Codigo>
+    <Duracion>15</Duracion>
+    <Nombre>C#</Nombre>
+  </dbo.cursos>
+</DocumentElement>
